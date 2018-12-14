@@ -1,0 +1,24 @@
+{
+  "root": "",
+  "common": {
+
+  },
+  "local": {
+    "log": {
+      "filePath": "",
+      "info": {
+        "fileNameBase": ""
+      },
+      "error": {
+        "fileNameBase": ""
+      }
+    },
+    "mysql": {
+      "host": "127.0.0.1",
+      "port": "",
+      "user": "",
+      "password": "",
+      "dbname": ""
+    }
+  }
+}
